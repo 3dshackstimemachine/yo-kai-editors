@@ -1,5 +1,5 @@
 # yo-kai-editors
-here i post togenyan's yo-kai-watch save editors (finally completed !!!!!!)
+Here, I post Togenyan's Yo-kai-watch Save Editors (Finally completed!!!!!!)
 
 # Tutorial :
 
@@ -17,4 +17,4 @@ Import your save file
 launch yokai watch
 your save should be edited!
 
-# IT IS NOT MY FAULT IF YOU CORRUPT YOUR SAVE FILE, YOU MAYBE DID A WRONG CHANGE
+# MAKING A WRONG CHANGE COULD CORRUPT YOUR SAVEFILE, DO NOT BLAME TOGENYAN OR ANYONE INVLOVED IN THE EDITOR!
