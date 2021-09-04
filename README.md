@@ -1,4 +1,4 @@
-# Yo-Kai Editors
+# Yo-kai Editors
 Here, I post Togenyan's Yo-kai-watch Save Editors (Completed.)
 
 # Using a Macbook?
